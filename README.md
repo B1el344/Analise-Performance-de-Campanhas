@@ -1,4 +1,4 @@
-# Análise da performance de Campanhas
+# Análise da Performance de Campanhas
 ## Problema de negócio:
 Este estudo busca responder qual das duas campanhas foi mais dominante em determinados KPI's, desse modo a análise perpassa por duas principais fases
   1. Análise exploratória e descritiva
